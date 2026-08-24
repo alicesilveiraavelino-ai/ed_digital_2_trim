@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visão de Quadra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Visão de Quadra</h1>
+    <h2><em>uma volta pelo Volei ou melhor uma visão</em></h2>
+
+    <img src="volei.png" alt="Imagem de uma partida de vôlei" width="400">
+
+    <hr>
+
+    <h2>História do Vôlei</h2>
+    <p>O vôlei foi criado em 1895 por William G. Morgan, nos Estados Unidos. Morgan era professor de educação física e queria um esporte menos violento que o basquete, que pudesse ser jogado em espaços fechados durante o inverno.</p>
+    <br>
+    <p>No Brasil, o esporte chegou em 1915, trazido pela Associação Cristã de Moços (ACM) em Recife. Hoje, o Brasil é uma das maiores potências do vôlei mundial, com títulos em todas as categorias.</p>
+
+    <hr>
+
+    <h2>Curiosidade: O nome "Vôlei"</h2>
+    <p>O nome original era "Mintonette", mas o professor Alfred Halstead sugeriu mudar para "Volleyball" (bola voadora) por causa da forma como a bola se movia durante o jogo.</p>
+
+    <hr>
+
+    <h2>Regras básicas</h2>
+    <ul>
+        <li>6 jogadores por time em quadra</li>
+        <li>Máximo de 3 toques na bola por lado (bloqueio não conta como toque)</li>
+        <li>O set vai até 25 pontos (com diferença mínima de 2 pontos)</li>
+        <li>O jogo é o melhor de 5 sets (no 5º set, vai até 15 pontos)</li>
+        <li>A bola pode tocar a rede durante o jogo, desde que passe para o lado adversário</li>
+    </ul>
+
+    <hr>
+
+    <h2>Posições dos jogadores</h2>
+    <table>
+        <tr>
+            <th>Posição</th>
+            <th>Função</th>
+        </tr>
+        <tr>
+            <td>Levantador</td>
+            <td>Distribui a bola para os atacantes com precisão</td>
+        </tr>
+        <tr>
+            <td>Ponteiro</td>
+            <td>Ataca pelas pontas da rede e ajuda na defesa</td>
+        </tr>
+        <tr>
+            <td>Central</td>
+            <td>Bloqueia ataques adversários e faz ataques rápidos pelo meio</td>
+        </tr>
+        <tr>
+            <td>Oposto</td>
+            <td>Fica de frente para o levantador e é o principal atacante</td>
+        </tr>
+        <tr>
+            <td>Líbero</td>
+            <td>Especialista em defesa e recepção; não ataca nem saca</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Curiosidade: O Líbero</h2>
+    <p>A posição de líbero foi criada em 1998 para melhorar a defesa e tornar o jogo mais dinâmico. O líbero usa uma camisa de cor diferente e pode entrar e sair da quadra sem aviso prévio ao árbitro.</p>
+
+    <hr>
+
+    <h2>Fundamentos do vôlei</h2>
+    <ul>
+        <li>Saque - começa a jogada</li>
+        <li>Passe (recepção) - recebe o saque adversário</li>
+        <li>Levantamento - prepara a bola para o ataque</li>
+        <li>Ataque - finaliza a jogada com força</li>
+        <li>Bloqueio - tenta impedir o ataque adversário</li>
+        <li>Defesa - evita que a bola caia no chão</li>
+    </ul>
+
+    <hr>
+
+    <h2>Curiosidade: Saque mais rápido</h2>
+    <p>O saque mais rápido já registrado foi do cubano Leonel Marshall, que atingiu incríveis 132 km/h.</p>
+    <br>
+    <p>No vôlei feminino, a maior velocidade registrada foi de 118 km/h.</p>
+
+    <hr>
+
+    <h2>Curiosidade: Maior público</h2>
+    <p>O maior público da história do vôlei aconteceu em 1983 em uma partida amistosa entre Brasil e União Soviética, no Estádio do Maracanãzinho, com mais de 95 mil espectadores.</p>
+
+    <hr>
+
+    <h2>Seleção Brasileira</h2>
+    <p>O Brasil é uma das maiores potências do vôlei mundial. Conquistou:</p>
+    <ul>
+        <li>3 ouros olímpicos (masculino: 1992, 2004, 2016)</li>
+        <li>2 ouros olímpicos (feminino: 2008, 2012)</li>
+        <li>3 títulos mundiais (masculino: 2002, 2006, 2010)</li>
+        <li>1 título mundial (feminino: 1994)</li>
+        <li>Incontáveis títulos na Liga das Nações e no Grand Prix</li>
+    </ul>
+
+    <hr>
+
+    <h2>Curiosidade: Jogador mais alto do vôlei</h2>
+    <p>O jogador mais alto da história do vôlei é o russo Dmitriy Muserskiy, com 2,18 metros de altura.</p>
+    <br>
+    <p>No feminino, a polonesa Malwina Smarzek tem 2,11 metros.</p>
+
+    <hr>
+
+    <h2>Curiosidade: O vôlei e a tecnologia</h2>
+    <p>Desde 2017, o vôlei usa o VAR (Video Assistant Referee) para revisar lances duvidosos, como toques na rede, invasões e se a bola tocou o chão ou não.</p>
+
+    <hr>
+
+    <footer>
+        <p>Visão de Quadra - seu guia completo sobre vôlei</p>
+        <br>
+    </footer>
+
+</body>
+</html>
